@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+.card {
+  padding: 8px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  border-left: 8px solid grey;
+}
+
+.answer {
+  background-color: beige;
+}
+
+.ask {
+
+}
+
+h2 {
+  font-size: 14px;
+}
